@@ -1,0 +1,25 @@
+* {
+    background-color: bisque;
+} 
+
+.center {
+    text-align: center;
+    font-weight: 900;
+    font-size: 40px;
+    color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    font-size: 16px;
+    font-weight: bold;
+    /* color:rgb(10, 217, 210); */
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+/* .links {
+    font-weight: bolder;
+}
+ */
